@@ -7,6 +7,9 @@ You will have to install the following prerequisites either in the Grasshopper P
 - Scikit-Learn
 - Numpy
 
+![ADANYplaceFinal](https://github.com/user-attachments/assets/c157b369-bd3e-4c69-962c-39c8415f9897)
+
+
 Use the main script 'GPTFinal.gh' to interface with the OpenAI API and perform searching OR repurpose the python module to use the assistants API for another function
 
 Use the provided embeddings database 'embeddings.csv' for cosine similarity search 
