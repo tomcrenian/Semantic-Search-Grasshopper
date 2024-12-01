@@ -1,5 +1,7 @@
 # Semantic-Search-Grasshopper
-A tool which uses OpenAI Assistants API to search databases of reclaimed components for matches in Grasshopper, Rhino3D
+A tool which uses OpenAI Assistants API to search databases of reclaimed components for matches in Grasshopper, Rhino3D.
+
+As part of an Undergraduate MA Architecture Dissertation at the University of Edinburgh, this tool implements the OpenAI Assistants API into Grasshopper. It further uses cosine similiarity to search a set of word vector embeddings for close matches to expand the prompt sent to the API with construction-related synonyms.
 
 You will have to install the following prerequisites either in the Grasshopper Python Environment or on Python Desktop:
 - OpenAI
